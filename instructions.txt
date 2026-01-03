@@ -1,0 +1,13 @@
+Create an html doc with 3 paragraphs
+apply css to each paragraph using inline,internal and external styles
+design a webpage with a heading,paragraphs and a list
+apply css styles to change the text color,alignment,font size,font family and font style for different elements
+create a html doc with various elements,including headings,paragraphs and division.
+uss all css selectors like id,class,universal,tag to apply unique style to specific elements
+design a webpage with multiple sections/divs.
+apply css styules to set different background colors,images,repeats,positions and sizes for each section
+design a webpage with multiple sections/divs,images.
+apply css styles to add borders with different widths,colors,border-radius and box-shadow effects to the elements
+design a webpage with multiple sections/divs,images,paragraphs and buttons
+apply css styles to set the display property to none,hidden,inline,block,and inline-block for specific elements.
+seek and see output and reverse engineer the code
