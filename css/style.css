@@ -1,0 +1,23 @@
+.blog{
+    background-color: lightpink;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+#second{
+    background-color: aquamarine;
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+#boss{
+    color:blueviolet;
+    border: 2px solid purple;
+    margin: 5px;
+    padding: 5px;
+    height: 7px;
+    display: inline;
+
+}
